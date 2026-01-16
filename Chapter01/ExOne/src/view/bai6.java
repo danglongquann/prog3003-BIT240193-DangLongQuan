@@ -14,7 +14,6 @@ public class bai6 {
         }
 
         System.out.println("Cac phan tu duy nhat: " + set);
-        // HashSet khong giu thu tu ban dau
         System.out.println();
     }
 }
